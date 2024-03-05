@@ -1,2 +1,2 @@
-E:\via.png E:\opacity.png E:\segmask.png 10000001000010 0
-E:\via2.png E:\opacity2.png E:\segmask2.png 11000001100010 1
+E:\via.png	E:\opacity.png	E:\segmask.png	10000001000010	0
+E:\via2.png	E:\opacity2.png	E:\segmask2.png	11000001100010	1
